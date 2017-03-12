@@ -9,7 +9,7 @@
 #include <iostream>
 #include <iomanip>
 
-#include "../../../boost/heap/fibonacci_heap.hpp"
+#include <boost/heap/fibonacci_heap.hpp>
 
 using std::cout;
 using std::endl;

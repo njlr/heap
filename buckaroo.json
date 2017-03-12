@@ -1,0 +1,16 @@
+{
+  "name": "boost-heap",
+  "dependencies": {
+    "boost-assert": "1.63.0",
+    "boost-static-assert": "1.63.0",
+    "boost-array": "1.63.0",
+    "boost-iterator": "1.63.0",
+    "boost-intrusive": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-integer": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-type-traits": "1.63.0",
+    "boost-concept-check": "1.63.0",
+    "boost-parameter": "1.63.0"
+  }
+}
