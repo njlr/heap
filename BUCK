@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 prebuilt_cxx_library(
-  name = 'boost-heap',
+  name = 'heap',
   header_only = True,
   header_namespace = 'boost/heap',
   exported_headers = subdir_glob([
